@@ -13,20 +13,20 @@
  ## Внешний вид
 <br>
 <p align="center">
-  <img src="pic/1.png" alt="Основное окно">
+  <img src="pic/1.PNG" alt="Основное окно">
     <br><strong>Основное окнов с данными</strong>
 </p>
 
 
 <br>
 <p align="center">
-  <img src="pic/2.png" alt="Основное окно/описание">
+  <img src="pic/2.PNG" alt="Основное окно/описание">
   <br><strong>Описание при наведении на элемент</strong>
 </p>
 
 <br>
 <p align="center">
-  <img src="pic/3.png" alt="найстроки">
+  <img src="pic/3.PNG" alt="найстроки">
 <br><strong>Форма настроек </strong>
 </p>
 
