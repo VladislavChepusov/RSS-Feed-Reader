@@ -1,0 +1,11 @@
+C:\Users\Vlados\source\repos\Infotecs2\Infotecs2\bin\Debug\Infotecs2.exe.config
+C:\Users\Vlados\source\repos\Infotecs2\Infotecs2\bin\Debug\Infotecs2.exe
+C:\Users\Vlados\source\repos\Infotecs2\Infotecs2\bin\Debug\Infotecs2.pdb
+C:\Users\Vlados\source\repos\Infotecs2\Infotecs2\obj\Debug\Infotecs2.csproj.AssemblyReference.cache
+C:\Users\Vlados\source\repos\Infotecs2\Infotecs2\obj\Debug\Infotecs2.Properties.Resources.resources
+C:\Users\Vlados\source\repos\Infotecs2\Infotecs2\obj\Debug\Infotecs2.csproj.GenerateResource.cache
+C:\Users\Vlados\source\repos\Infotecs2\Infotecs2\obj\Debug\Infotecs2.csproj.CoreCompileInputs.cache
+C:\Users\Vlados\source\repos\Infotecs2\Infotecs2\obj\Debug\Infotecs2.exe
+C:\Users\Vlados\source\repos\Infotecs2\Infotecs2\obj\Debug\Infotecs2.pdb
+C:\Users\Vlados\source\repos\Infotecs2\Infotecs2\obj\Debug\Infotecs2.MainForm.resources
+C:\Users\Vlados\source\repos\Infotecs2\Infotecs2\obj\Debug\Infotecs2.Settings.resources
